@@ -24,10 +24,10 @@ A full stack e-commerce website built with **MERN stack (MongoDB, Express.js, Re
 
 ### Tech Stack
 
-**Frontend:** React, Tailwind CSS, JavaScript
-**Backend:** Node.js, Express.js
-**Database:** MongoDB
-**Payments:** Stripe, Razorpay
+**Frontend:** React, Tailwind CSS, JavaScript  
+**Backend:** Node.js, Express.js  
+**Database:** MongoDB  
+**Payments:** Stripe, Razorpay  
 **Deployment:** Vercel
 
 This project demonstrates the development and deployment of a complete MERN-stack eCommerce application with user, product, cart, order, payment, and admin management functionality.
